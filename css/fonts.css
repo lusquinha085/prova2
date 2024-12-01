@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "logo";
+    src: url(../fonts/Monda-Medium.ttf)
+}
+
+@font-face {
+    font-family: "regular";
+    src: url(../fonts/Monda-Regular.ttf)
+}
+
+@font-face {
+    font-family: "bold";
+    src: url(../fonts/Monda-Bold.ttf);
+}
